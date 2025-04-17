@@ -1,2 +1,2 @@
-﻿  Swap.c
-  Operator.vcxproj -> C:\cworks\Operator\x64\Debug\Operator.exe
+﻿  ChoiceOperator.c
+C:\cworks\Operator\Operator\ChoiceOperator.c(24,1): error C4700: 초기화되지 않은 'rlsult2' 지역 변수를 사용했습니다.
