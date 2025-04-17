@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cworks\\Variable\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22888710-8338-4F02-8D0B-18377441838D}|Variable\\Variable.vcxproj|C:\\cworks\\Variable\\Variable\\TypeConversion.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22888710-8338-4F02-8D0B-18377441838D}|Variable\\Variable.vcxproj|solutionrelative:Variable\\TypeConversion.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22888710-8338-4F02-8D0B-18377441838D}|Variable\\Variable.vcxproj|C:\\cworks\\Variable\\Variable\\dataInt.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22888710-8338-4F02-8D0B-18377441838D}|Variable\\Variable.vcxproj|solutionrelative:Variable\\dataInt.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22888710-8338-4F02-8D0B-18377441838D}|Variable\\Variable.vcxproj|C:\\cworks\\Variable\\Variable\\DataChar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22888710-8338-4F02-8D0B-18377441838D}|Variable\\Variable.vcxproj|solutionrelative:Variable\\DataChar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22888710-8338-4F02-8D0B-18377441838D}|Variable\\Variable.vcxproj|C:\\cworks\\Variable\\Variable\\DataScope.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22888710-8338-4F02-8D0B-18377441838D}|Variable\\Variable.vcxproj|solutionrelative:Variable\\DataScope.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22888710-8338-4F02-8D0B-18377441838D}|Variable\\Variable.vcxproj|C:\\cworks\\Variable\\Variable\\VariableEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22888710-8338-4F02-8D0B-18377441838D}|Variable\\Variable.vcxproj|solutionrelative:Variable\\VariableEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TypeConversion.c",
+              "DocumentMoniker": "C:\\cworks\\Variable\\Variable\\TypeConversion.c",
+              "RelativeDocumentMoniker": "Variable\\TypeConversion.c",
+              "ToolTip": "C:\\cworks\\Variable\\Variable\\TypeConversion.c*",
+              "RelativeToolTip": "Variable\\TypeConversion.c*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-17T10:12:29.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dataInt.c",
+              "DocumentMoniker": "C:\\cworks\\Variable\\Variable\\dataInt.c",
+              "RelativeDocumentMoniker": "Variable\\dataInt.c",
+              "ToolTip": "C:\\cworks\\Variable\\Variable\\dataInt.c",
+              "RelativeToolTip": "Variable\\dataInt.c",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-15T12:01:09.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataChar.c",
+              "DocumentMoniker": "C:\\cworks\\Variable\\Variable\\DataChar.c",
+              "RelativeDocumentMoniker": "Variable\\DataChar.c",
+              "ToolTip": "C:\\cworks\\Variable\\Variable\\DataChar.c",
+              "RelativeToolTip": "Variable\\DataChar.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-15T11:31:06.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataScope.c",
+              "DocumentMoniker": "C:\\cworks\\Variable\\Variable\\DataScope.c",
+              "RelativeDocumentMoniker": "Variable\\DataScope.c",
+              "ToolTip": "C:\\cworks\\Variable\\Variable\\DataScope.c",
+              "RelativeToolTip": "Variable\\DataScope.c",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAmwDgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-15T10:43:57.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VariableEx.c",
+              "DocumentMoniker": "C:\\cworks\\Variable\\Variable\\VariableEx.c",
+              "RelativeDocumentMoniker": "Variable\\VariableEx.c",
+              "ToolTip": "C:\\cworks\\Variable\\Variable\\VariableEx.c",
+              "RelativeToolTip": "Variable\\VariableEx.c",
+              "ViewState": "AgIAACUAAAAAAAAAAAAmwDAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-10T12:10:40.342Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

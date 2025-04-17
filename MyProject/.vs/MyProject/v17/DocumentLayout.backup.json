@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cworks\\MyProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB598AD-2502-401D-BC88-3A0F1CE8F826}|MyProject\\MyProject.vcxproj|C:\\cworks\\MyProject\\MyProject\\Hello.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFB598AD-2502-401D-BC88-3A0F1CE8F826}|MyProject\\MyProject.vcxproj|solutionrelative:MyProject\\Hello.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hello.c",
+              "DocumentMoniker": "C:\\cworks\\MyProject\\MyProject\\Hello.c",
+              "RelativeDocumentMoniker": "MyProject\\Hello.c",
+              "ToolTip": "C:\\cworks\\MyProject\\MyProject\\Hello.c",
+              "RelativeToolTip": "MyProject\\Hello.c",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-10T11:02:46.69Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
