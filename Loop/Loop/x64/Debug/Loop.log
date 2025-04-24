@@ -1,0 +1,4 @@
+﻿  InputError.c
+C:\cworks\Loop\Loop\InputError.c(17,6): warning C4101: 'ch2' :참조되지 않은 지역 변수입니다.
+C:\cworks\Loop\Loop\InputError.c(12,7): warning C4101: 'ch' :참조되지 않은 지역 변수입니다.
+  Loop.vcxproj -> C:\cworks\Loop\x64\Debug\Loop.exe

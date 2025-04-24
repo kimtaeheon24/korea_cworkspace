@@ -21,7 +21,7 @@
     <ClCompile Include="IfEx2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="LeafYear.c">
+    <ClCompile Include="LeapYear.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="IfElseif.c">
@@ -40,6 +40,9 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="SwitchEx2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Seat.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
