@@ -22,12 +22,18 @@ int main() {
 	//문자 입력시 오류 처리
 	while (1) {
 		printf("숫자를 입력하세요:");
-		if (scanf_s("%d", &num) == 1) {
+		int result = scanf_s("%d", &num);
+		//c언어 - 1이 (true), 0(false)
+		if (result == 1) {
 			printf("%d\n", num);
 			break;
 		}
-		while (getchar() != '\n');  //'\n'이 나올때까지 모든 문자 제거
-		printf("잘못된 입력입니다.\n");
+		else {
+			//버퍼(임시기억공간) 비우기
+			//'\n' (제어문자 - LF(10))
+			while (getchar() != '\n');  //'\n'이 나올때까지 모든 문자 제거
+			printf("잘못된 입력입니다.\n");
+		}
 	}
 
 	return 0;
