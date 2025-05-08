@@ -1,0 +1,9 @@
+﻿  calCulator.c
+  Main.c
+C:\cworks\Calculator\Calculator\Main.c(17,9): warning C4476: 'printf' : 서식 지정자에 알 수 없는 형식 필드 문자 '!'이(가) 있습니다.
+C:\cworks\Calculator\Calculator\Main.c(20,2): warning C4013: 'system'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  코드를 생성하고 있습니다.
+  Previous IPDB not found, fall back to full compilation.
+  All 6 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  Calculator.vcxproj -> C:\cworks\Calculator\x64\Release\Calculator.exe

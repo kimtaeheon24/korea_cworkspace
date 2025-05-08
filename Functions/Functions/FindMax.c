@@ -1,7 +1,6 @@
 #include <stdio.h>
 
-
-
+int findMax(int arr[], int len);  //함수 선언부 명시
 int main() {
 	int a[] = { 21,35,71,2,97,66 };
 
@@ -15,7 +14,7 @@ int main() {
 
 //최대값을 계산하는 함수 정의
 int findMax(int arr[], int len) {
-	int maxVal = arr[0];  //최대값 설정
+	int maxVal = arr[0]; //최대값 설정
 	for (int i = 1; i < len; i++) {
 		if (arr[i] > maxVal)
 			maxVal = arr[i];
