@@ -45,5 +45,14 @@
     <ClCompile Include="AraayTest.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="array2D.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="array2Dstring.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="oddTotal.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

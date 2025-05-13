@@ -1,0 +1,26 @@
+﻿  PointerArray.c
+C:\cworks\Pointer\Pointer\PointerArray.c(18,10): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
+C:\cworks\Pointer\Pointer\PointerArray.c(18,10): warning C4313: 'printf': 서식 문자열의 '%x'이(가) int *' 형식의 인수 2과(와) 충돌합니다.
+C:\cworks\Pointer\Pointer\PointerArray.c(18,10): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'int *'입니다.
+C:\cworks\Pointer\Pointer\PointerArray.c(18,10): warning C4313: 'printf': 서식 문자열의 '%x'이(가) int *' 형식의 인수 3과(와) 충돌합니다.
+C:\cworks\Pointer\Pointer\PointerArray.c(24,9): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\cworks\Pointer\Pointer\PointerArray.c(24,9): warning C4313: 'printf': 서식 문자열의 '%x'이(가) int *' 형식의 인수 1과(와) 충돌합니다.
+C:\cworks\Pointer\Pointer\PointerArray.c(27,9): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\cworks\Pointer\Pointer\PointerArray.c(27,9): warning C4313: 'printf': 서식 문자열의 '%x'이(가) int *' 형식의 인수 1과(와) 충돌합니다.
+C:\cworks\Pointer\Pointer\PointerArray.c(28,9): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\cworks\Pointer\Pointer\PointerArray.c(28,9): warning C4313: 'printf': 서식 문자열의 '%x'이(가) int *' 형식의 인수 1과(와) 충돌합니다.
+C:\cworks\Pointer\Pointer\PointerArray.c(29,9): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\cworks\Pointer\Pointer\PointerArray.c(29,9): warning C4313: 'printf': 서식 문자열의 '%x'이(가) int *' 형식의 인수 1과(와) 충돌합니다.
+C:\cworks\Pointer\Pointer\PointerArray.c(30,9): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\cworks\Pointer\Pointer\PointerArray.c(30,9): warning C4313: 'printf': 서식 문자열의 '%x'이(가) int *' 형식의 인수 1과(와) 충돌합니다.
+C:\cworks\Pointer\Pointer\PointerArray.c(33,10): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\cworks\Pointer\Pointer\PointerArray.c(33,10): warning C4313: 'printf': 서식 문자열의 '%x'이(가) int *' 형식의 인수 1과(와) 충돌합니다.
+C:\cworks\Pointer\Pointer\PointerArray.c(37,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\cworks\Pointer\Pointer\PointerArray.c(37,9):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\cworks\Pointer\Pointer\PointerArray.c(37,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+      C:\cworks\Pointer\Pointer\PointerArray.c(37,9):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+  Pointer.vcxproj -> C:\cworks\Pointer\x64\Debug\Pointer.exe
