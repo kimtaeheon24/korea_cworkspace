@@ -48,5 +48,11 @@
     <ClCompile Include="gueesNumber.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="math25월20.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="StringFuntions5월20.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
