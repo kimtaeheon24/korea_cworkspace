@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\cworks\\Functions\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C2B6FD7B-B106-4474-985C-152C91299183}|Functions\\Functions.vcxproj|C:\\cworks\\Functions\\Functions\\mathEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C2B6FD7B-B106-4474-985C-152C91299183}|Functions\\Functions.vcxproj|solutionrelative:Functions\\mathEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C2B6FD7B-B106-4474-985C-152C91299183}|Functions\\Functions.vcxproj|C:\\cworks\\Functions\\Functions\\StringFuntions5\uC6D420.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C2B6FD7B-B106-4474-985C-152C91299183}|Functions\\Functions.vcxproj|solutionrelative:Functions\\StringFuntions5\uC6D420.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C2B6FD7B-B106-4474-985C-152C91299183}|Functions\\Functions.vcxproj|C:\\cworks\\Functions\\Functions\\math25\uC6D420.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C2B6FD7B-B106-4474-985C-152C91299183}|Functions\\Functions.vcxproj|solutionrelative:Functions\\math25\uC6D420.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B6FD7B-B106-4474-985C-152C91299183}|Functions\\Functions.vcxproj|C:\\cworks\\Functions\\Functions\\mathEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C2B6FD7B-B106-4474-985C-152C91299183}|Functions\\Functions.vcxproj|solutionrelative:Functions\\mathEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C2B6FD7B-B106-4474-985C-152C91299183}|Functions\\Functions.vcxproj|C:\\cworks\\Functions\\Functions\\FindMax.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -62,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -71,6 +71,31 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "mathEx.c",
+              "DocumentMoniker": "C:\\cworks\\Functions\\Functions\\mathEx.c",
+              "RelativeDocumentMoniker": "Functions\\mathEx.c",
+              "ToolTip": "C:\\cworks\\Functions\\Functions\\mathEx.c",
+              "RelativeToolTip": "Functions\\mathEx.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-08T11:51:10.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StringFuntions5\uC6D420.c",
+              "DocumentMoniker": "C:\\cworks\\Functions\\Functions\\StringFuntions5\uC6D420.c",
+              "RelativeDocumentMoniker": "Functions\\StringFuntions5\uC6D420.c",
+              "ToolTip": "C:\\cworks\\Functions\\Functions\\StringFuntions5\uC6D420.c",
+              "RelativeToolTip": "Functions\\StringFuntions5\uC6D420.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-20T11:25:05.07Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -83,25 +108,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "StringFuntions5\uC6D420.c",
-              "DocumentMoniker": "C:\\cworks\\Functions\\Functions\\StringFuntions5\uC6D420.c",
-              "RelativeDocumentMoniker": "Functions\\StringFuntions5\uC6D420.c",
-              "ToolTip": "C:\\cworks\\Functions\\Functions\\StringFuntions5\uC6D420.c",
-              "RelativeToolTip": "Functions\\StringFuntions5\uC6D420.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-20T11:25:05.07Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "math25\uC6D420.c",
               "DocumentMoniker": "C:\\cworks\\Functions\\Functions\\math25\uC6D420.c",
               "RelativeDocumentMoniker": "Functions\\math25\uC6D420.c",
               "ToolTip": "C:\\cworks\\Functions\\Functions\\math25\uC6D420.c",
               "RelativeToolTip": "Functions\\math25\uC6D420.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-05-20T11:04:40.713Z"
             },
@@ -152,19 +164,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-05-01T12:42:57.238Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "mathEx.c",
-              "DocumentMoniker": "C:\\cworks\\Functions\\Functions\\mathEx.c",
-              "RelativeDocumentMoniker": "Functions\\mathEx.c",
-              "ToolTip": "C:\\cworks\\Functions\\Functions\\mathEx.c",
-              "RelativeToolTip": "Functions\\mathEx.c",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-08T11:51:10.901Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",

@@ -22,7 +22,7 @@ int maxFind(int* arr, int len) {
 }
 int maxFindArr(int* arr, int len) {
 	int idx = 0;
-	for (int i = 0; i < len; i++) {
+	for (int i = 1; i < len; i++) {
 		if(*(arr + idx)< *(arr+ i)){ idx = i; }
 
 

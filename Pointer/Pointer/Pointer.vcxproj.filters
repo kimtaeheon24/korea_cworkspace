@@ -57,5 +57,17 @@
     <ClCompile Include="Test5월20.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="CalcSum25월22일.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="FindMax5월22일.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="FindMaxIdx5월22일.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="RandCoin5월22일.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
