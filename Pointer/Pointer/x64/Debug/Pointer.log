@@ -1,3 +1,5 @@
-﻿  RandCoin5월22일.c
-C:\cworks\Pointer\Pointer\RandCoin5월22일.c(17,8): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  Pointer.vcxproj -> C:\cworks\Pointer\x64\Debug\Pointer.exe
+﻿  StrtokEx5월27일.c
+C:\cworks\Pointer\Pointer\StrtokEx5월27일.c(19,10): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+C:\cworks\Pointer\Pointer\StrtokEx5월27일.c(19,10): warning C4313: 'printf': 서식 문자열의 '%s'이(가) int' 형식의 인수 1과(와) 충돌합니다.
+C:\cworks\Pointer\Pointer\StrtokEx5월27일.c(31,8): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\cworks\Pointer\Pointer\StrtokEx5월27일.c(19,1): error C4700: 초기화되지 않은 'ptr' 지역 변수를 사용했습니다.

@@ -69,5 +69,8 @@
     <ClCompile Include="RandCoin5월22일.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="StrtokEx5월27일.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

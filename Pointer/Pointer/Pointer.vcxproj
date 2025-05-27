@@ -172,6 +172,7 @@
     <ClCompile Include="RandCoin5월22일.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="StrtokEx5월27일.c" />
     <ClCompile Include="swap5월20.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
