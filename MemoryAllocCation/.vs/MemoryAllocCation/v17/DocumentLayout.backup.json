@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cworks\\MemoryAllocCation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE64C569-4D92-48A6-B798-C5593FCC5814}|MemoryAllocCation\\MemoryAllocCation.vcxproj|C:\\cworks\\MemoryAllocCation\\MemoryAllocCation\\TypingGame.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FE64C569-4D92-48A6-B798-C5593FCC5814}|MemoryAllocCation\\MemoryAllocCation.vcxproj|solutionrelative:MemoryAllocCation\\TypingGame.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE64C569-4D92-48A6-B798-C5593FCC5814}|MemoryAllocCation\\MemoryAllocCation.vcxproj|C:\\cworks\\MemoryAllocCation\\MemoryAllocCation\\StrtokEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FE64C569-4D92-48A6-B798-C5593FCC5814}|MemoryAllocCation\\MemoryAllocCation.vcxproj|solutionrelative:MemoryAllocCation\\StrtokEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE64C569-4D92-48A6-B798-C5593FCC5814}|MemoryAllocCation\\MemoryAllocCation.vcxproj|C:\\cworks\\MemoryAllocCation\\MemoryAllocCation\\MallocChar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FE64C569-4D92-48A6-B798-C5593FCC5814}|MemoryAllocCation\\MemoryAllocCation.vcxproj|solutionrelative:MemoryAllocCation\\MallocChar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TypingGame.c",
+              "DocumentMoniker": "C:\\cworks\\MemoryAllocCation\\MemoryAllocCation\\TypingGame.c",
+              "RelativeDocumentMoniker": "MemoryAllocCation\\TypingGame.c",
+              "ToolTip": "C:\\cworks\\MemoryAllocCation\\MemoryAllocCation\\TypingGame.c",
+              "RelativeToolTip": "MemoryAllocCation\\TypingGame.c",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-29T10:43:43.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StrtokEx.c",
+              "DocumentMoniker": "C:\\cworks\\MemoryAllocCation\\MemoryAllocCation\\StrtokEx.c",
+              "RelativeDocumentMoniker": "MemoryAllocCation\\StrtokEx.c",
+              "ToolTip": "C:\\cworks\\MemoryAllocCation\\MemoryAllocCation\\StrtokEx.c",
+              "RelativeToolTip": "MemoryAllocCation\\StrtokEx.c",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-29T10:25:42.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MallocChar.c",
+              "DocumentMoniker": "C:\\cworks\\MemoryAllocCation\\MemoryAllocCation\\MallocChar.c",
+              "RelativeDocumentMoniker": "MemoryAllocCation\\MallocChar.c",
+              "ToolTip": "C:\\cworks\\MemoryAllocCation\\MemoryAllocCation\\MallocChar.c",
+              "RelativeToolTip": "MemoryAllocCation\\MallocChar.c",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-29T10:08:49.585Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
