@@ -11,7 +11,7 @@ int main() {
 	//fopen(파일, 쓰기모드) //파일 위치 - 절대 경로
 	// cfile 디렉터리(폴더)는 미리 생성되어야 함
 	//out.txt는 기존에 있으면 저장이 되고, 없으면 새로 생성됨
-	fp = fopen("c:/cfile/out.txt","w");
+	fp = fopen("out.txt","w");
 	if (fp == NULL) {
 		printf("파일 열기에 실패했습니다.\n");
 		return 1;

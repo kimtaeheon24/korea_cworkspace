@@ -57,9 +57,10 @@
               "RelativeDocumentMoniker": "MemoryAllocCation\\StrtokEx.c",
               "ToolTip": "C:\\cworks\\MemoryAllocCation\\MemoryAllocCation\\StrtokEx.c",
               "RelativeToolTip": "MemoryAllocCation\\StrtokEx.c",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-29T10:25:42.261Z"
+              "WhenOpened": "2025-05-29T10:25:42.261Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -69,9 +70,10 @@
               "RelativeDocumentMoniker": "MemoryAllocCation\\MallocChar.c",
               "ToolTip": "C:\\cworks\\MemoryAllocCation\\MemoryAllocCation\\MallocChar.c",
               "RelativeToolTip": "MemoryAllocCation\\MallocChar.c",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACMAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-29T10:08:49.585Z"
+              "WhenOpened": "2025-05-29T10:08:49.585Z",
+              "EditorCaption": ""
             }
           ]
         }

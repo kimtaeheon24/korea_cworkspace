@@ -13,7 +13,7 @@ int main() {
 	}
 
 	printf("======== ASCII 테이블 ========\n");
-	for (int i = 32; i < 128; i++) {
+	for (int i = 32; i < 128; i++) {  //32(공백문자)
 		if (i % 10 == 0)
 			fputc('\n', fp);
 		fputc(i, fp);
