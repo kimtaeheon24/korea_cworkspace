@@ -24,5 +24,29 @@
     <ClCompile Include="StructStudent6월3.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="ToggleEx6월5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="RecusiveEx6월5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Factorial6월5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="factorial16월5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SortEx6월5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SorftBuble6월5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="seqSerch6월5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LinkedList16월5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

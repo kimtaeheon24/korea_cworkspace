@@ -1,2 +1,6 @@
-﻿  StructStudent6월3.c
+﻿  LinkedList16월5.c
+C:\cworks\DataStructure\DataStructure\LinkedList16월5.c(21,9): warning C4133: '=': 'L *'과(와) 'L *' 사이의 형식이 호환되지 않습니다.
+C:\cworks\DataStructure\DataStructure\LinkedList16월5.c(22,9): warning C4133: '=': 'L *'과(와) 'L *' 사이의 형식이 호환되지 않습니다.
+C:\cworks\DataStructure\DataStructure\LinkedList16월5.c(31,4): warning C4133: '=': 'L *'과(와) 'L *' 사이의 형식이 호환되지 않습니다.
+C:\cworks\DataStructure\DataStructure\LinkedList16월5.c(42,28): warning C4133: '=': 'L *'과(와) 'L *' 사이의 형식이 호환되지 않습니다.
   DataStructure.vcxproj -> C:\cworks\DataStructure\x64\Debug\DataStructure.exe
